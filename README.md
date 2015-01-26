@@ -1,4 +1,4 @@
-# NYU CS-GY 6015 - Spring 2015
+# NYU CS-GY 6015 - Template
 
 ## A practical dive into Java
 
