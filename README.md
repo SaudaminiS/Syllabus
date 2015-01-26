@@ -65,6 +65,8 @@ See [Grading](#grading) for overall grade percentage.
 	- Students may change their project selection no later than the 3rd class.
 * All projects will receive *one, or more,* required addendums prior to the project's due date.
 
+See [Grading](#grading) for overall grade percentage.
+
 ### Grading
 Student grades will be determined by the combined scores of quizzes, homeworks and the course project.
 
