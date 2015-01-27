@@ -113,7 +113,7 @@ Ask as many questions as you have. I would encourage you to ask the questions in
 
 ### Collaboration
 * Peer assistance on homework and the course project is recommended. When working with a peer, questions and responses should be given in English (or another natural language) and without the use of code.
-* Copying code, even if copied with the original author’s permission, will be considered and reported as cheating.
+* Copying code, even if copied with the original author’s permission, will be considered and reported as cheating. A `0` will be given for the assignment and, pending the severity of the copied code, an `F` may be given for the course.
 
 ### Office Hours
 If you want to meet me prior to class please email me so that I can ensure I'm available promptly at 3:30 pm. If you do not email me in advance I may be late getting to office hours. Additionally, if the office hours' time does not work for you I will make myself available via Google Hangout (video call).  Just send me an email and we can coordinate a time that will work for both of us.
